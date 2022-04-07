@@ -1,5 +1,5 @@
 My name is Judy Ann Palattao Macutay, a junior student of CSU-Aparri Grad School taking up Master of Science in Information technology.
-I'm interested in Web Development, Database programming, and Machine Learning.
+I'm interested in Web Development, Database programming, Android, Data science, and Machine Learning.
 
 My hobbies are:
 1. Photography
